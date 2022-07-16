@@ -1,18 +1,23 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Andre Bomjardim",
-	"dependencies": {
-	  "express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-	  "start": "node server.js"
-	},
-	"engines": {
-	  "node": "8.11.2"
-	},
-	"repository": {
-	  "type": "git",
-	  "url": "https://github.com/AndreBomja/boilerplate-npm"
-	}
-  }
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste freecod camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreBomja/boilerplate-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreBomja/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/AndreBomja/boilerplate-npm#readme"
+}
