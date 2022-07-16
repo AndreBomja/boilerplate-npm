@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreBomja/boilerplate-npm.git"
+    "url": "https://github.com/AndreBomja/boilerplate-npm.git"
   },
   "keywords": [
     "npm"
